@@ -12,11 +12,11 @@
 
 * Форма входа:
 
-![loginform](../pictures/1.png)
+![loginform](pictures/1.png)
 
 * Форма регистрации:
 
-![registerform](../pictures/2.png)
+![registerform](pictures/2.png)
 
 
 
@@ -77,16 +77,16 @@ index.php, при отсутствии переменной $_SESSION['user'], �
 
 * Алгоритм работы для форм регистрации:
 
-![first_diagram](../pictures/3.png)
+![first_diagram](pictures/3.png)
 
 * Алгоритм работы для форм авторизации:
 
-![first_diagram](../pictures/4.png)
+![first_diagram](pictures/4.png)
 
 #### Примеры HHTP запросов/ответов
 
 * Пример 1                          
-![first_diagram](../pictures/5.png)
+![first_diagram](pictures/5.png)
 
 * Пример 2                                 
-![first_diagram](../pictures/6.png)
+![first_diagram](pictures/6.png)
